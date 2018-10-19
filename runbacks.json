@@ -17,13 +17,13 @@
   "winning team": {
     "driver": "Ben",
     "items": "Ryan",
-    "points": null,
+    "points": "",
     "time": ""
   },
   "losing team": {
     "driver": "Derek",
     "items": "Chris",
-    "points": null
+    "points": ""
   }
 },
 {
@@ -31,13 +31,13 @@
   "winning team": {
     "driver": "Derek",
     "items": "Ben",
-    "points": 138,
+    "points": "",
     "time": ""
   },
   "losing team": {
     "driver": "Ryan",
     "items": "Chris",
-    "points": 138
+    "points": ""
   }
 },
 {
