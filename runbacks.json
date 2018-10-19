@@ -1,0 +1,58 @@
+{
+  1: {
+    "date": "8/25/18",
+    "winning team": {
+      "driver": "Derek",
+      "items": "Chris",
+      "points": 138,
+      "time": ""
+    },
+    "losing team": {
+      "driver": "Ben",
+      "items": "Ryan",
+      "points": 138
+    }
+  },
+  2: {
+    "date": "",
+    "winning team": {
+      "driver": "Ben",
+      "items": "Ryan",
+      "points": null,
+      "time": ""
+    },
+    "losing team": {
+      "driver": "Derek",
+      "items": "Chris",
+      "points": null
+    }
+  },
+  3: {
+    "date": "9/11/18",
+    "winning team": {
+      "driver": "Derek",
+      "items": "Ben",
+      "points": 138,
+      "time": ""
+    },
+    "losing team": {
+      "driver": "Ryan",
+      "items": "Chris",
+      "points": 138
+    }
+  },
+  4: {
+    "date": "9/19/18",
+    "winning team": {
+      "driver": "Ben",
+      "items": "Derek",
+      "points": 148,
+      "time": "34:47.913"
+    },
+    "losing team": {
+      "driver": "Ryan",
+      "items": "Chris",
+      "points": 140
+    }
+  }
+}
